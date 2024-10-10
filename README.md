@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+- 👨‍💻 I'm a Data Engineer with 6+ years of experience, currently working in a fintech industry.
+- ✍ I've done my Masters in Computer Science and Machine Learning from George Mason University, Virginia.
+- 🏂 I'm currently building a scalable and robust multi-cloud data infrastructure on healthcare dataset.
+- 🔍 I've a strong interest in Natural Language Processing (NLP), I've built a BERT model for sentence classification. And I've also worked on a research paper to implement a cost-effective solution for Natural Language Understanding of long texts that can utilize pre-trained encoder-decoder models designed for short texts.
+- 🔧 As a believer in the DevOps ethos, I include agile DevOps methods into my data engineering workflows and I am still learning the best practices. 
+- 🎯 My goal is to contribute to open-source projects and become a data architect.
+- 📫 You can reach out to me at shubhamshukla1177@gmail.com or https://www.linkedin.com/in/kumar-shubham-0945a1132/
+
 <!--
 **shubhamshukla1177/shubhamshukla1177** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
